@@ -13,18 +13,31 @@
 
 ✅ Repeatability ±0.03mm | Payload 5kg | Doseg 850mm | Odličen ekosistem | EU servis
 
-### Opcija B — JAKA Zu 7 (priporočeno za nižji proračun)
+### Opcija B — Dobot CR10A ⭐ (priporočeno razmerje cena/zmogljivost)
+
+| Oprema | Model | Dobavitelj | Ocena cene |
+|--------|-------|-----------|------------|
+| Cobot | Dobot CR10A | Unchained Robotics | ~23.000 € |
+| Krmilnik | vključen | Dobot | vključeno |
+| Teach pendant | DobotStudioPro | Dobot | vključeno |
+| Montažna baza | Fiksna miza | lokalno | ~500 € |
+
+✅ Repeatability ±0.03mm | Payload 10kg | Doseg 1300mm (pokriva celotno 5×2 mrežo!)  
+✅ Profinet, Ethernet/IP, Modbus TCP — enostavna integracija  
+✅ Leasing od 1.000€/mesec (opcija)  
+💰 **Prihranek vs UR5e: ~12.000 €**
+
+### Opcija C — JAKA Zu 7
 
 | Oprema | Model | Dobavitelj | Ocena cene |
 |--------|-------|-----------|------------|
 | Cobot | JAKA Zu 7 | JAKA Robotics / Pronet | ~20.000 € |
 | Krmilnik | vključen | JAKA | vključeno |
-| Teach pendant | JAKA App | JAKA | vključeno |
 | Montažna baza | Fiksna miza | lokalno | ~500 € |
 
-✅ Repeatability ±0.02mm (boljše od UR5e!) | Payload 7kg | Doseg 800mm  
-⚠️ Manjši ekosistem | Preveriti servis v SLO (Pronet Connected)  
-💰 **Prihranek vs UR5e: ~18.000 €**
+✅ Repeatability ±0.02mm | Payload 7kg  
+⚠️ Doseg 800mm — morda premalo za celotno 5×2 mrežo  
+⚠️ Manjši ekosistem, preveriti servis v SLO
 
 ## End-of-arm tooling (EOAT)
 
@@ -79,17 +92,18 @@
 
 ## Skupaj ocena investicije
 
-| Kategorija | Opcija A (UR5e) | Opcija B (JAKA Zu 7) |
-|------------|----------------|----------------------|
-| Cobot sistem | 38.500 € | 20.500 € |
-| EOAT | 4.100 € | 4.100 € |
-| Epoxy sistem | 2.150 € | 2.150 € |
-| Feeder | 1.300 € | 1.300 € |
-| Pnevmatika | 2.800 € | 2.800 € |
-| Miza + fiksture | 4.000 € | 4.000 € |
-| Varnost + elektro | 2.900 € | 2.900 € |
-| Integracija + programiranje | 8.000 € | 8.000 € |
-| **SKUPAJ** | **~63.750 €** | **~45.750 €** |
-| **Prihranek** | — | **~18.000 €** |
+| Kategorija | A: UR5e | B: Dobot CR10A ⭐ | C: JAKA Zu 7 |
+|------------|---------|------------------|--------------|
+| Cobot sistem | 38.500 € | 23.500 € | 20.500 € |
+| EOAT | 4.100 € | 4.100 € | 4.100 € |
+| Epoxy sistem | 2.150 € | 2.150 € | 2.150 € |
+| Feeder | 1.300 € | 1.300 € | 1.300 € |
+| Pnevmatika | 2.800 € | 2.800 € | 2.800 € |
+| Miza + fiksture | 4.000 € | 4.000 € | 4.000 € |
+| Varnost + elektro | 2.900 € | 2.900 € | 2.900 € |
+| Integracija + prog. | 8.000 € | 8.000 € | 8.000 € |
+| **SKUPAJ** | **~63.750 €** | **~48.750 €** | **~45.750 €** |
+| **Prihranek vs UR5e** | — | **~15.000 €** | **~18.000 €** |
 
-> Ocena brez DDV, brez dostave. Natančna ponudba po finalizaciji koncepta.
+> Ocena brez DDV, brez dostave. Natančna ponudba po finalizaciji koncepta.  
+> ⭐ Priporočamo Dobot CR10A — doseg 1300mm pokriva celotno celico, 10kg payload, soliden ekosistem.
