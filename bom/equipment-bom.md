@@ -2,12 +2,29 @@
 
 ## Cobot sistem
 
+### Opcija A — Universal Robots UR5e (priporočeno za produkcijo)
+
 | Oprema | Model | Dobavitelj | Ocena cene |
 |--------|-------|-----------|------------|
 | Cobot | UR5e | Universal Robots | ~38.000 € |
 | Krmilnik | UR Control Box | UR | vključeno |
 | Teach pendant | PolyScope | UR | vključeno |
 | Montažna baza | Fiksna miza | lokalno | ~500 € |
+
+✅ Repeatability ±0.03mm | Payload 5kg | Doseg 850mm | Odličen ekosistem | EU servis
+
+### Opcija B — JAKA Zu 7 (priporočeno za nižji proračun)
+
+| Oprema | Model | Dobavitelj | Ocena cene |
+|--------|-------|-----------|------------|
+| Cobot | JAKA Zu 7 | JAKA Robotics / Pronet | ~20.000 € |
+| Krmilnik | vključen | JAKA | vključeno |
+| Teach pendant | JAKA App | JAKA | vključeno |
+| Montažna baza | Fiksna miza | lokalno | ~500 € |
+
+✅ Repeatability ±0.02mm (boljše od UR5e!) | Payload 7kg | Doseg 800mm  
+⚠️ Manjši ekosistem | Preveriti servis v SLO (Pronet Connected)  
+💰 **Prihranek vs UR5e: ~18.000 €**
 
 ## End-of-arm tooling (EOAT)
 
@@ -62,16 +79,17 @@
 
 ## Skupaj ocena investicije
 
-| Kategorija | Ocena |
-|------------|-------|
-| Cobot sistem | 38.000 € |
-| EOAT | 4.100 € |
-| Epoxy sistem | 2.150 € |
-| Feeder | 1.300 € |
-| Pnevmatika | 2.800 € |
-| Miza + fiksture | 4.000 € |
-| Varnost + elektro | 2.900 € |
-| Integracija + programiranje | 8.000 € |
-| **SKUPAJ** | **~63.000 €** |
+| Kategorija | Opcija A (UR5e) | Opcija B (JAKA Zu 7) |
+|------------|----------------|----------------------|
+| Cobot sistem | 38.500 € | 20.500 € |
+| EOAT | 4.100 € | 4.100 € |
+| Epoxy sistem | 2.150 € | 2.150 € |
+| Feeder | 1.300 € | 1.300 € |
+| Pnevmatika | 2.800 € | 2.800 € |
+| Miza + fiksture | 4.000 € | 4.000 € |
+| Varnost + elektro | 2.900 € | 2.900 € |
+| Integracija + programiranje | 8.000 € | 8.000 € |
+| **SKUPAJ** | **~63.750 €** | **~45.750 €** |
+| **Prihranek** | — | **~18.000 €** |
 
 > Ocena brez DDV, brez dostave. Natančna ponudba po finalizaciji koncepta.
