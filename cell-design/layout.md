@@ -57,6 +57,25 @@ Izhodišče = baza cobota
 
 > Točne koordinate se določijo med kalibracijo cobota na dejanskem mestu.
 
+## FR4 Rotor plošča — dimenzije (iz risbe SP2025-0063-0048)
+
+| Parameter | Vrednost |
+|-----------|----------|
+| Zunanja dimenzija | Φ 260 mm |
+| Debelina | 5 mm |
+| Material | FR4 (neferomagnetna ✅) |
+| Število žepov | 10 |
+| Radij žepov (notranji) | R 89.55 mm |
+| Radij žepov (zunanji) | R 122.95 mm |
+| Toleranca žepov | ±0.03 mm |
+| Montažne izvrtine | 6× Φ 6.4 mm skoznje |
+| Masa | 294.88 g |
+
+### Magnet pozicioniranje
+- Žep širina: ~75mm (±1.00mm)
+- Globina žepa: 6.5mm (debelina magneta)
+- Cobot mora polagati magnet v žep s **±0.03mm** toleranco → vakuumski gripper + počasno spuščanje
+
 ## Varnost
 
 - CE skladna varnostna ograja z varnostnimi vrati
